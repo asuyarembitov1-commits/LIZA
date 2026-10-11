@@ -1,0 +1,13 @@
+{
+  "name": "alice-gemini-serper-template",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Minimal Vercel webhook for a Yandex Alice skill powered by Gemini with optional Serper web search",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
